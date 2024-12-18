@@ -45,7 +45,7 @@ function testar() {
     } else if (JimiHendrix === maior) {
         pagina = 'JH';
     } else if (Ozzy === maior) {
-        pagina = 'ozzy';
+        pagina = 'Ozzy';
     } else if (KurtCobain === maior) {
         pagina = 'KC';
     }
